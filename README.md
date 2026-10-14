@@ -73,7 +73,7 @@ The Reverse Safety Node monitors the area behind the vehicle using an ultrasonic
 ## 🖼️ System Block Diagram
 
 <p align="center">
-  <img src="Images/BLOCK_DIAGRAM.jpeg" width="850" alt="CAN-Based Vehicle Monitoring and Reverse Safety System Block Diagram">
+  <img src="Images/BLOCK_DIAGRAM.jpeg" width="800" alt="CAN-Based Vehicle Monitoring and Reverse Safety System Block Diagram">
 </p>
 
 ---
