@@ -28,7 +28,7 @@ The system exchanges relevant data between nodes and presents vehicle status and
 
 ## 🏗️ System Architecture
 
-### Main Node
+### 🖥️ Main Node
 
 The Main Node serves as the primary monitoring and coordination unit of the system.
 
@@ -42,7 +42,7 @@ The Main Node serves as the primary monitoring and coordination unit of the syst
 
 ---
 
-### Indicator Node
+### ⬅️➡️ Indicator Node
 
 The Indicator Node handles left and right indicator operations according to control commands received through the CAN network.
 
@@ -56,7 +56,7 @@ The Indicator Node handles left and right indicator operations according to cont
 
 ---
 
-### Reverse Safety Node
+### 🚨 Reverse Safety Node
 
 The Reverse Safety Node monitors the area behind the vehicle using an ultrasonic distance sensor and communicates obstacle information through the CAN bus.
 
