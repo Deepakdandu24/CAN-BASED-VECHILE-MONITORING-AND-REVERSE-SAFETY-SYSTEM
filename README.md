@@ -73,7 +73,7 @@ The Reverse Safety Node monitors the area behind the vehicle using an ultrasonic
 ## 🖼️ System Block Diagram
 
 <p align="center">
-  <img src="Images/BLOCK_DIAGRAM.jpeg" width="700" alt="CAN-Based Vehicle Monitoring and Reverse Safety System Block Diagram">
+  <img src="Images/BLOCK_DIAGRAM.jpeg" width="850" alt="CAN-Based Vehicle Monitoring and Reverse Safety System Block Diagram">
 </p>
 
 ---
@@ -83,7 +83,7 @@ The Reverse Safety Node monitors the area behind the vehicle using an ultrasonic
 During startup, the microcontroller initializes the required peripherals and prepares the monitoring system for operation.
 
 <p align="center">
-  <img src="Images/VEHICLE_LOADING.png" width="700" alt="Vehicle Startup Screen">
+  <img src="Images/VEHICLE_LOADING.png" width="750" alt="Vehicle Startup Screen">
 </p>
 
 **Startup Functions**
